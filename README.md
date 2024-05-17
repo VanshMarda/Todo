@@ -21,6 +21,7 @@ This is a simple Task Manager application with a React frontend and an Nodejs ba
 
     ```sh
     npm install
+    npm install react-icon
     ```
     
 3. Start the backend server:
