@@ -21,8 +21,7 @@ This is a simple Task Manager application with a React frontend and an Nodejs ba
 
     ```sh
     npm install
-    npm install react-icons
-    ```
+        ```
     
 3. Start the backend server:
 
@@ -44,6 +43,7 @@ This is a simple Task Manager application with a React frontend and an Nodejs ba
 
     ```sh
     npm install
+    npm install react-icons
     ```
 
 3. Start the frontend development server:
